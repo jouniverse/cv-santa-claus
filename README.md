@@ -1,30 +1,22 @@
-# This is a large heading
+# Santa Claus
 
-## This is a smaller heading
+###  Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the north.
 
-- This is
-- an unordered
-- list
+### Hobbies
 
-1. This is
-2. an ordered
-3. list
+- Craftmanship
+- Reindeers
+- Chimney sweeping
 
-Here is `some code` in the middle of a sentence.
+### My thoughts on life.
 
-```
-This is
-a block
-of code
-```
+- Be *nice* to people. The elves are watching.
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+Contact via mail. The mailbox is checked regularly. 
+I will be in touch once every year.
 
-nano README.md
+
